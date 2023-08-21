@@ -1,0 +1,61 @@
+*{
+   font-size: 20px;
+   font-style: italic
+   margin: 0;
+}
+div{
+   background-color: yellow;
+   
+}
+
+body{
+   background: image url(images.jpg) 0 0 no-repeat;
+   color: black;
+   font-family: cursive; 
+}
+div ul li { color: orangered;
+   
+  padding: 0 70px;
+  display: inline-block;
+}
+a {
+   color: black;
+   text-decoration: none;
+}
+i{
+   color: red;
+   margin: black;
+   background: yellowgreen
+}
+img{
+   color: darkgreen;
+}
+u{
+   text-align: right;
+   color: red;
+}
+.red{
+   background: hsl(40, 10, 30);
+   height: 10vw;
+}
+.center{
+   background-color: white;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif,cursive;
+}
+.para{
+   height: 30vw;
+   background-color: lightcyan;
+}
+.heading{
+   background-color: ghostwhite;
+   color: red;
+   text-align: center;
+   font-style: italic;
+   font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.bold{
+   text-align: right;
+   background-color: burlywood;
+}
